@@ -1,11 +1,12 @@
-# KITTI Stereo Depth Estimation
+# KITTI Perception 
 
-KITTI Stereo Vision depth estimation + 2D object detection
+Combine object detection, instance segmentation and depth estimation. 
+Play around with different methods and models and check which performs good and fast. 
+In the process, learn a lot about computer vision stuff and have fun.
 
 ## Data
 
 https://github.com/yanii/kitti-pcl/blob/master/KITTI_README.TXT
-
 
 camera setup:
 * camera 0 (left) is grayscale and the reference camera
